@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'SF Pro Display Medium';
+    src: url("../../assets/fonts/SF-Pro-Display-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: url("../../assets/fonts/SF-Pro-Display-Light.otf") format("opentype");
+}
+
+
+.phone_card {
+    padding: 0 10px;
+    height: 417px;
+}
+
+.card_body {
+    background: #F5F5F7;
+    padding: 20px 25px;
+}
+
+.title {
+    text-align: left;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    color: #1D1D1F;
+    font-family: 'SF Pro Display Medium';
+    margin-bottom: 10px;
+}
+
+a {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: lowercase;
+    color: #5E8BCE;
+}
+
+.image {
+    width: 187px;
+    height: 221px;
+    margin: 18px 0;
+}
+
+.costKGS {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    font-family: 'SF Pro Display Medium';
+}
+
+.costUSD {
+    color: #828282;
+    font-family: 'SF-Pro-Display-Light';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}

@@ -1,0 +1,18 @@
+
+
+.phones_block {
+    display: grid;
+    grid-template-columns: 285px 285px 285px 285px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.gadgets_block {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 380px 380px 380px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}

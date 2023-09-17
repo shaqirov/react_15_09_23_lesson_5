@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'SF Pro Display Medium';
+    src: url("../../assets/fonts/SF-Pro-Display-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: url("../../assets/fonts/SF-Pro-Display-Light.otf") format("opentype");
+}
+
+
+.gadgets_card {
+    padding: 0 10px;
+    height: 313px;
+}
+
+.card_body {
+    background: #F5F5F7;
+    padding: 20px 25px;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    color: #1D1D1F;
+    font-family: 'SF Pro Display Medium';
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    color: #1D1D1F;
+    font-family: 'SF Pro Display Medium';
+    margin-bottom: 10px;
+}
+.link {
+    text-align: left;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: lowercase;
+    color: #5E8BCE;
+}
+
+img {
+    width: 187px;
+    height: 187px;
+    margin: 18px 0;
+}

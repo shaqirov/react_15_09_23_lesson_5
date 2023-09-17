@@ -1,0 +1,58 @@
+[
+  {
+    "model": "iPhone 15 Pro Max",
+    "link": "https://www.istore.kg/catalog/product/iphone-15-pro-max",
+    "image": "https://www.istore.kg/media/products/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium_Pkg9yKl.webp",
+    "costKGS": 0,
+    "costUSD": 0
+  },
+  {
+    "model": "iPhone 15 Pro",
+    "link": "https://www.istore.kg/catalog/product/iphone-15-pro",
+    "image": "https://www.istore.kg/media/products/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium.webp",
+    "costKGS": 0,
+    "costUSD": 0
+  },
+  {
+    "model": "iPhone 15 Plus",
+    "link": "https://www.istore.kg/catalog/product/iphone-15-plus",
+    "image": "https://www.istore.kg/media/products/iphone-15-finish-select-202309-6-7inch-blue.webp",
+    "costKGS": 0,
+    "costUSD": 0
+  },
+  {
+    "model": "iPhone 14 Pro Max",
+    "link": "https://www.istore.kg/catalog/product/iphone-14-pro-max",
+    "image": "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-7inch-spaceblack_KVl27v8.webp",
+    "costKGS": "102 120",
+    "costUSD": "1150,0"
+  },
+  {
+    "model": "iPhone 14 Pro",
+    "link": "https://www.istore.kg/catalog/product/iphone-14-pro",
+    "image": "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-1inch-spaceblack_HXToe1H.webp",
+    "costKGS": "92 352",
+    "costUSD": "1040.0"
+  },
+  {
+    "model": "iPhone 14 Plus",
+    "link": "https://www.istore.kg/catalog/product/iphone-14-plus",
+    "image": "https://www.istore.kg/media/products/iphone-14-finish-select-202209-6-7inch-product-red_yx6cyQq.webp",
+    "costKGS": "74 592",
+    "costUSD": "840,0"
+  },
+  {
+    "model": "iPhone 14",
+    "link": "https://www.istore.kg/catalog/product/iphone-14",
+    "image": "https://www.istore.kg/media/products/iphone-14-finish-select-202209-6-1inch-yellow.webp",
+    "costKGS": "71 040",
+    "costUSD": "800,0"
+  },
+  {
+    "model": "iPhone 13",
+    "link": "https://www.istore.kg/catalog/product/iphone-13",
+    "image": "https://www.istore.kg/media/products/iphone-13-blue-select-2021_QT6ur4J.webp",
+    "costKGS": "62 160",
+    "costUSD": "700,0"
+  }
+]
